@@ -11,7 +11,7 @@ import com.itextpdf.text.Document;
 import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.PdfWriter;
 
-public class PdfNotes {
+public class PdfNotes_to_PRINT {
     public static void main(String[] args) throws Exception {
         File folder = new File("F:\\ALL PROJECT ARE STORED HERE\\E-commerce_Order"); // Apne project ka path daal
         String outputPath = "C:\\Users\\sonun\\OneDrive\\Desktop\\E-commerce_Bussiness\\e-Commerce.pdf"; // Output file
